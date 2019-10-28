@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sandy-s-monsters/static/css/main.6d7c4070.chunk.css",
+    "main.js": "/sandy-s-monsters/static/js/main.2a40d3b9.chunk.js",
+    "main.js.map": "/sandy-s-monsters/static/js/main.2a40d3b9.chunk.js.map",
+    "runtime-main.js": "/sandy-s-monsters/static/js/runtime-main.10500f53.js",
+    "runtime-main.js.map": "/sandy-s-monsters/static/js/runtime-main.10500f53.js.map",
+    "static/js/2.64cdb3b7.chunk.js": "/sandy-s-monsters/static/js/2.64cdb3b7.chunk.js",
+    "static/js/2.64cdb3b7.chunk.js.map": "/sandy-s-monsters/static/js/2.64cdb3b7.chunk.js.map",
+    "index.html": "/sandy-s-monsters/index.html",
+    "precache-manifest.7497402531d2fc322bdf97d960299f18.js": "/sandy-s-monsters/precache-manifest.7497402531d2fc322bdf97d960299f18.js",
+    "service-worker.js": "/sandy-s-monsters/service-worker.js",
+    "static/css/main.6d7c4070.chunk.css.map": "/sandy-s-monsters/static/css/main.6d7c4070.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10500f53.js",
+    "static/js/2.64cdb3b7.chunk.js",
+    "static/css/main.6d7c4070.chunk.css",
+    "static/js/main.2a40d3b9.chunk.js"
+  ]
+}
